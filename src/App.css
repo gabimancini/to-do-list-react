@@ -40,6 +40,14 @@ input {
   border-radius: 5px;
   padding: 5px 20px;
 }
+.btn-edit {
+  background-color: rgb(27, 50, 177);
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  padding: 5px 20px;
+  margin-right: 20px;
+}
 
 li {
   background-color: #fff;
